@@ -226,3 +226,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+'''python -m PyInstaller --onefile minty.py'''
